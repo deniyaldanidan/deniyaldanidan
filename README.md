@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @deniyaldanidan
-- 👀 I’m interested in Web-security, Web-techs, APP/WEB/PWA Devs
-- 🌱 I’m currently learning Laravel, React, Web-sec, Oauth, JWT, GraphQL, REST, API's, WebSockets & other web-techs
+- 👀 I’m interested in `Web-security, Web-techs, APP/WEB/PWA Devs`
+- 🌱 I’m currently learning `php, python, Javascript,Laravel, React, Node-JS, Express, fastAPI, python-network-programming,sql & nosql, Web-sec, Oauth, JWT, GraphQL, JSON, REST, API's, WebSockets & .....
 - 💞️ I’m looking to collaborate on Interesting projects
-- 📫 How to reach me ----- JUST DM on INSTA - jackdanijd97
+- 📫 How to reach me ----- JUST DM on INSTA - vamp__lestat or on twitter
 
 <!---
 deniyaldanidan/deniyaldanidan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
