@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deniyaldanidan
 - 👀 I’m interested in `Web-security, Web-techs, APP/WEB/PWA Devs`
-- 🌱 I’m currently learning `php, python, Javascript,Laravel, React, Node-JS, Express, fastAPI, python-network-programming,sql & nosql, Web-sec, Oauth, JWT, GraphQL, JSON, REST, API's, WebSockets & .....
+- 🌱 I’m currently learning `php, python, Javascript,Laravel, React, Node-JS, Express, fastAPI, python-network-programming,sql & nosql, Web-sec, Oauth, JWT, GraphQL, JSON, REST, API's, WebSockets & .....`
 - 💞️ I’m looking to collaborate on Interesting projects
 - 📫 How to reach me ----- JUST DM on INSTA - vamp__lestat or on twitter
 
