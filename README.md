@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @deniyaldanidan
-- 👀 I’m interested in `Web-security, Web-techs, Android-App/WEB/PWA Devs`
-- 🌱 I’m currently learning `php, python, Javascript, Typescript, Laravel, React, Node-JS, Express, fastAPI, python-network-programming, sql & nosql, WebSec, Oauth, JWT, GraphQL, JSON, REST, API's, WebSockets & .....`
+- 👋 Hi, I'm **Daniel Dani**
+- 👀 I’m a **Web-Developer**.
+- 🌱 My stack consists of `HTML, CSS, SASS, Javascript, Typescript, React.js, Next.js, Express.js, PostgreSQL, Sqlite, MySQL, MongoDB`.
 - 💞️ I’m looking to collaborate on Interesting projects
-- 📫 How to reach me ----- JUST DM on INSTA - vamp__lestat or on twitter
-
-<!---
-deniyaldanidan/deniyaldanidan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 To get in touch ==> [my LinkedIn profile](www.linkedin.com/in/deniyaldani)
